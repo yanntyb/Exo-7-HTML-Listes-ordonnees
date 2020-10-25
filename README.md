@@ -1,6 +1,6 @@
 # Exo-7-HTML-Listes-ordonnees
 
-€€ Exo
+## Exo
 
 Créez un nouveau document HTML de manière a ce qu'il soit valide ( balise title, etc... )
 
